@@ -1,0 +1,1 @@
+dotnet certcheck.dll -c 0geBbfPJP9 -s LTBeZwb7xLdBQfwDKMh5tTBEICc0UbXT -f "Contoworks GmbH" -u https://sandbox.konsentus.com/v1/psp/eidas?jurisdiction=LU -m dmd.vadim.andryushchenko@contoworks.com -r ./test/check -e ./test/error -x -i ./test/init --email-user noreply@kontocloud.com --email-pass P4ss4ma!Lr3Lay --email-server smtp.1und1.de --email-port 587
